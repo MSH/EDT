@@ -1,9 +1,11 @@
-<img src="Logos/SIAPS_Name%2BUSAID.Horz.png" width="150"> &nbsp;&nbsp; <img src="Logos/MSH_4c.png" width="75">
+﻿<img src="Logos/SIAPS_Name%2BUSAID.Horz.png" width="150"> &nbsp;&nbsp; <img src="Logos/MSH_4c.png" width="75">
 
 # EDT
 The SIAPS Program is funded by the U.S. Agency for International Development (USAID) under cooperative agreement AID-OAA-A-11-00021 and implemented by Management Sciences for Health. The information provided on this web site is not official U.S. Government information and does not represent the views or positions of the U.S. Agency for International Development or the U.S. Government. 
 
-For more information, contact phtmis@msh.org
+This repository includes the Access mdb file for EDT, as well as compiled 32-bit and 64-bit versions of the software.
+
+For more information, including the login information for the .exe files, contact phtmis@msh.org
 
 Disclaimer of warranties and limitation of liability
 
